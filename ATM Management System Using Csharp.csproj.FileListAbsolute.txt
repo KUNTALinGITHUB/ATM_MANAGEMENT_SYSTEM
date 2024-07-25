@@ -1,0 +1,20 @@
+c:\users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM_Management_System_Using_Csharp.frm_SplashScreen.resources
+c:\users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM_Management_System_Using_Csharp.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM Management System Using Csharp.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\bin\Debug\ATM Management System Using Csharp.exe
+c:\users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\bin\Debug\ATM Management System Using Csharp.pdb
+c:\users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM Management System Using Csharp.exe
+c:\users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM Management System Using Csharp.pdb
+c:\users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM_Management_System_Using_Csharp.frm_login.resources
+c:\users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM_Management_System_Using_Csharp.frm_main.resources
+c:\users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM_Management_System_Using_Csharp.frm_balance.resources
+C:\Users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM_Management_System_Using_Csharp.frm_deposti.resources
+C:\Users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM_Management_System_Using_Csharp.frm_withdraw.resources
+C:\Users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM_Management_System_Using_Csharp.frm_changepin.resources
+C:\Users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM_Management_System_Using_Csharp.frm_statement.resources
+C:\Users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM_Management_System_Using_Csharp.frm_transection.resources
+C:\Users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM_Management_System_Using_Csharp.frm_register.resources
+C:\Users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\bin\Debug\ATM_M_S.mdf
+C:\Users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\bin\Debug\ATM_M_S_log.ldf
+C:\Users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\bin\Debug\ATM Management System Using Csharp.exe.config
+C:\Users\hp\documents\visual studio 2010\Projects\ATM Management System Using Csharp\ATM Management System Using Csharp\obj\x86\Debug\ATM Management System Using Csharp.csprojResolveAssemblyReference.cache
